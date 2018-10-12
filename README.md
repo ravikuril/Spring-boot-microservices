@@ -1,1 +1,1 @@
-Some REST API using Spring boot.
+Some REST API using Spring framework.
